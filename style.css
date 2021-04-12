@@ -1,0 +1,31 @@
+.result-div
+{
+    background-color: grey;
+    font-size: 20px;
+    border-radius:  20px;;
+}
+
+.test-image
+{
+    height: 350;
+    width: 300;
+    border-radius: 20px;
+}
+
+.result
+{
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    width: 300px;
+    font-size: 20px;
+}
+
+#conclution
+{
+    border-radius: 20px;;
+    background-color: grey;
+    color: white;
+    font-size: 15;
+}
+
